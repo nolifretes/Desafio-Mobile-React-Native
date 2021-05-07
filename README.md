@@ -7,7 +7,7 @@ A proposta deste projeto é criar um app bem simples utilizando React-Native, co
 **Dependências do projeto:**
 
 * **REACT-NATIVE**: em caso de dúvidas, utilize a documentação oficial https://facebook.github.io/react-native/docs/getting-started
-* **react-native-navigation**: em caso de dúvidas, utilize a documentação https://github.com/wix/react-native-navigation
+* **react-native-navigation** ou **react-navigation** : em caso de dúvidas, utilize as documentações: https://github.com/wix/react-native-navigation / https://reactnavigation.org/docs/getting-started
 * [Axios](https://github.com/axios/axios) - Módulo utilizado para realizar as requisições na API.
 
 
