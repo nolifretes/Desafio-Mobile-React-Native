@@ -35,4 +35,4 @@ A proposta deste projeto é criar um app bem simples utilizando React-Native, co
 
 ## Entrega
 
- Ao terminar a prova, envie um email para `desenvolvimento@nolifretes.com.br` contendo o link do github. 
+ Ao terminar a prova, envie um email para `desenvolvimento@nolifretes.com.br` com o titulo - DEV-REACT-TESTE contendo o link do github. 
