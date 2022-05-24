@@ -11,20 +11,22 @@ A proposta deste projeto é criar um app bem simples utilizando React-Native, co
 * [Axios](https://github.com/axios/axios) - Módulo utilizado para realizar as requisições na API.
 
 
-* Sinta-se livre para criar a interface.
+* Sinta-se livre para criar a interface e implementar novas funcionalidades, mas lembre, todo o projeto será avaliado.
 
 ## Funcionalidades básicas
 
-### Tela inicial
+### Página inicial - Funcionalidades básicas
 
-- possuir um campo de busca, para que seja possível digitar um texto aberto. Este valor precisa ser repassado para o endpoint API.
-- exibir resultados da consulta da api, mostrando os dados do usuário digitado e listando seus repositórios.
-- lista de repositórios deve redirecionar para a tela de detalhes com o clique em um item da lista.
+- Possuir um campo de busca, para que seja possível digitar o nome de um usuário e um nome de repositório (ex: Facebook/React). Este valor precisa ser repassado para o endpoint API.
+- Exibir os resultados da consulta da api, mostrando o repositório em uma lista.
+- Ao clicar em um repositório na lista, a aplicação deverá redirecionar para a página de detalhes.
 
-### Tela de Detalhes
 
-- página deve mostrar os detalhes do repositório clicado.
-- contendo no mínimo os seguintes dados: nome, descrição, nome do dono e linguagem.
+### Página de Detalhes - Funcionalidades básicas
+
+- Página deverá mostrar os detalhes do repositório clicado.
+- Exibir no mínimo os seguintes dados: nome, descrição, email, owner name, avatar url, forks, start, issues, linguagem.
+- Na página de detalhes, ao clicar sobre uma issue, deverá abrir uma nova aba do navegador para a página oficial da issue no GitHub. 
 
 ## API GitHub
 
@@ -35,4 +37,4 @@ A proposta deste projeto é criar um app bem simples utilizando React-Native, co
 
 ## Entrega
 
- Ao terminar a prova, envie um email para `desenvolvimento@nolifretes.com.br` com o titulo - DEV-REACT-TESTE contendo o link do github. 
+ Ao terminar a prova, envie um email para `desenvolvimento@nolifretes.com.br` com o titulo - DEV-REACT-NATIVE-TESTE contendo o link do github. 
